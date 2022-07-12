@@ -10,3 +10,5 @@
 * [오리](ori.md)
 * [쿼리치](quaritch.md)
 * [어썸오](awesomeo.md)
+
+담당코치: 갓공원
